@@ -3,7 +3,7 @@
 ## Example
 
 ```rust
-use EIP_712::{EIP712, hash_structured_data};
+use eip_712::{EIP712, hash_structured_data};
 use serde_json::from_str;
 use rustc_hex::ToHex;
 
